@@ -1,0 +1,32 @@
+h1,h2,h3,h4,h5{
+    font-size: xx-large;
+    text-align: center;
+    color: blue;
+    font-family: 'Times New Roman';
+    text-transform: capitalize;
+}
+
+p{
+    font-size:large;
+    color: indigo;
+    text-transform: capitalize;
+}
+#family{
+    font-size: large;
+    color: purple;
+    text-transform: capitalize;
+}
+
+#childhood{
+    text-align:center;
+    font-size: large;
+    color: red;
+    text-transform: capitalize;
+    font-family: Georgia;
+}
+
+h6{
+    text-align: right;
+    font-size: xx-large;
+    color: peru;
+}
